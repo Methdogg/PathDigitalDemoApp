@@ -6,8 +6,8 @@ import com.emirhan.marvel.di.scope.ApplicationScope
 import com.emirhan.marvel.ui.screens.fragment.characterDetail.CharacterDetailViewModel
 import com.emirhan.marvel.ui.screens.fragment.characterList.CharacterListViewModel
 import com.emirhan.marvel.ui.screens.fragment.favouriteCharacters.FavouriteCharactersViewModel
-import com.emirhan.marvel.util.view.ViewModelFactory
-import com.methdogg.lodosmovieapp.di.qualifier.ViewModelKey
+import com.emirhan.marvel.util.ViewModelFactory
+import com.emirhan.marvel.di.qualifier.ViewModelKey
 import dagger.Binds
 import dagger.Module
 import dagger.multibindings.IntoMap

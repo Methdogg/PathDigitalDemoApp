@@ -2,7 +2,7 @@ package com.emirhan.marvel.base
 
 import android.os.Bundle
 import androidx.lifecycle.ViewModelProvider
-import com.emirhan.marvel.util.view.ViewModelFactory
+import com.emirhan.marvel.util.ViewModelFactory
 import dagger.android.AndroidInjection
 import java.lang.reflect.ParameterizedType
 import javax.inject.Inject

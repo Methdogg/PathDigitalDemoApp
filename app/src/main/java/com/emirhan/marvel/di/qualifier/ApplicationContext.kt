@@ -1,4 +1,4 @@
-package com.methdogg.lodosmovieapp.di.qualifier
+package com.emirhan.marvel.di.qualifier
 
 import javax.inject.Qualifier
 

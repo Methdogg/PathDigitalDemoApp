@@ -4,7 +4,7 @@ import android.os.Bundle
 import android.view.View
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
-import com.emirhan.marvel.util.view.ViewModelFactory
+import com.emirhan.marvel.util.ViewModelFactory
 import java.lang.reflect.ParameterizedType
 import javax.inject.Inject
 

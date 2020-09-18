@@ -4,7 +4,7 @@ import android.content.Context
 import com.emirhan.marvel.base.BaseApplication
 import com.emirhan.marvel.data.local.LocalStorage
 import com.emirhan.marvel.di.scope.ApplicationScope
-import com.methdogg.lodosmovieapp.di.qualifier.ApplicationContext
+import com.emirhan.marvel.di.qualifier.ApplicationContext
 import dagger.Module
 import dagger.Provides
 

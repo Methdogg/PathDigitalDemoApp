@@ -6,7 +6,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.FragmentManager
 import com.emirhan.marvel.base.BaseActivity
 import com.emirhan.marvel.di.scope.ActivityScope
-import com.methdogg.lodosmovieapp.di.qualifier.ActivityContext
+import com.emirhan.marvel.di.qualifier.ActivityContext
 import dagger.Binds
 import dagger.Module
 import dagger.Provides

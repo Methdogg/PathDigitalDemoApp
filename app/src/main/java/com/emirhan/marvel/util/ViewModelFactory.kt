@@ -1,4 +1,4 @@
-package com.emirhan.marvel.util.view
+package com.emirhan.marvel.util
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider

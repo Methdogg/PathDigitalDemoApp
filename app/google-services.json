@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "148248176313",
+    "firebase_url": "https://pathdigitaldemoapp.firebaseio.com",
+    "project_id": "pathdigitaldemoapp",
+    "storage_bucket": "pathdigitaldemoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148248176313:android:45a931be0f2218f3709d68",
+        "android_client_info": {
+          "package_name": "com.emirhan.marvel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148248176313-s06ftji5tnn4u601cpi4siiehgujpcv7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP7dBycth6lrj2kf902gQGebSavbJzbs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148248176313-s06ftji5tnn4u601cpi4siiehgujpcv7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
