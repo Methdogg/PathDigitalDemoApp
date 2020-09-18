@@ -1,0 +1,41 @@
+# Android Studio
+.idea/
+*.iml
+
+# Eclipse
+.classpath
+.project
+
+# Mac File Store
+.DS_Store
+
+# Local Configuration
+local.properties
+
+# Gradle
+.gradle/
+
+# Built Application Files
+*.apk
+*.ap_
+
+# Java Class Files
+*.class
+
+# Dex VM Files
+*.dex
+
+# Generated Files
+build/
+config/
+bin/
+gen/
+
+# Lint
+*/lint.xml
+
+# Properties Files
+app.properties
+
+# Android Studio Captures Folder
+captures/

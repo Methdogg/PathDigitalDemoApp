@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MarvelApp</string>
+
+    <string name="main_page">Main Page</string>
+    <string name="my_favourites">My Favourites</string>
+    <string name="add_to_favourites">Add to favourites</string>
+    <string name="remove_from_favourites">Remove from favourites</string>
+    <string name="comics">Comics</string>
+    <string name="no_result">No Result</string>
+
+    <string name="success">Success</string>
+    <string name="failed">Failed</string>
+</resources>
